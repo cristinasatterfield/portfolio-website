@@ -4,6 +4,7 @@
   --main-gray: #2c2c2c;
   --accent-blue: #001f33;
   --main-green: #035761;
+  --accent-green: #b3b842;
 }
 
 * {
@@ -52,7 +53,7 @@ a {
 }
 
 #nav-list a:hover {
-  background-color: var(--accent-blue);
+  background-color: var(--accent-green);
 }
 
 #welcome-section {

@@ -3,6 +3,7 @@
   --main-blue: #0072bc;
   --main-gray: #2c2c2c;
   --accent-blue: #001f33;
+  --main-green: #035761;
 }
 
 * {
@@ -28,7 +29,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: var(--main-blue);
+  background-color: var(--main-green);
 }
 
 #nav-list {
